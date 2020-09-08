@@ -50,6 +50,7 @@
 
 <div class="block_for_messages">
         <?php
+        session_start();
         if(isset($_SESSION["error_messages"]) && !empty($_SESSION["error_messages"])){
             echo $_SESSION["error_messages"];
             unset($_SESSION["error_messages"]);
