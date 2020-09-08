@@ -98,6 +98,7 @@ div {
 .shop_container {
     height: 100%;
     padding: 0 15px 0 15px;
+    max-width: 68vw;
 }
 
 ul {
@@ -164,6 +165,7 @@ button:not(:disabled) {
 img {
     margin: 0;
     display: block;
+    max-width: 17vw;
 }
 w-100{
     max-width: 100%;

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tobacco.xslt"?>
+<catalog>
+    <tobacco>
+        <img src="../../img/noPhoto.png" alt="asd"/>
+        <name>Darkside</name>
+        <tags>
+            <tag>strong</tag>
+            <tag>darkside</tag>
+        </tags>
+        <tastes>
+            <taste>sweet</taste>
+            <taste>melon</taste>
+        </tastes>
+        <price>1599.66</price>
+        <availability>1</availability>
+        <rating>4.8</rating>
+    </tobacco>
+    <tobacco>
+        <img src="../../img/noPhoto.png" alt="asd"/>
+        <name>Darkside</name>
+        <tags>
+            <tag>strong</tag>
+            <tag>darkside</tag>
+        </tags>
+        <tastes>
+            <taste>sweet</taste>
+            <taste>melon</taste>
+        </tastes>
+        <price>1599.66</price>
+        <availability>1</availability>
+        <rating>4.8</rating>
+    </tobacco>
+</catalog>
